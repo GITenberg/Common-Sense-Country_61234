@@ -1,0 +1,30 @@
+_repo: Common-Sense-Country_61234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bevington, L. S. (Louisa Sarah)
+    aliases:
+    - Bevington, Louisa Sarah
+    - Bevington, Louise S.
+    - Guggenberger, Louisa S. (Louisa Sarah)
+    birthdate: 1845
+    deathdate: 1895
+    gutenberg_agent_id: '51321'
+    url: http://www.gutenberg.org/2009/agents/51321
+    wikipedia: https://en.wikipedia.org/wiki/L._S._Bevington
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anarchism'
+- !lcsh 'Utopias'
+- !lcc 'HX'
+- GITenberg
+title: Common-Sense Country
+url: http://www.gutenberg.org/ebooks/61234
